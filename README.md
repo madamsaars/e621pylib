@@ -1,2 +1,2 @@
 # e621pylib
-Incomplete e621 api wrapper for python
+Incomplete, yet to come e621 api wrapper for python
